@@ -1,7 +1,7 @@
 # inventory
 Script for calculation of inventory
 
-NOTE: It does not need to be accumlted using an array you can just use accumlator variables
+NOTE: It does not need to be accumulated using an array you can just use accumlator variables
 
 Write two programs which will work with a structure.
 
